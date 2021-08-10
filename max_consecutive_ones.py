@@ -9,8 +9,8 @@ class Solution(object):
         for e in nums:
             if e == 1:
                 cur_cnt += 1
-                max_cnt = max(max_cnt,cur_cnt)
             elif e == 0:
                 max_cnt = max(max_cnt,cur_cnt)
                 cur_cnt = 0
+        max_cnt = max(max_cnt,cur_cnt)
         return max_cnt
