@@ -10,3 +10,4 @@ Homework for new jobs and hobby!
 
 ## Linked List
 - Problem 203. [Remove Elements from a Single Linked List](https://github.com/stoneyang/LeetCode/blob/main/remove_elements_in_single_linked_list.py)
+- Problem 206. [Reverse List](https://github.com/stoneyang/LeetCode/blob/main/reverse_list.py)
